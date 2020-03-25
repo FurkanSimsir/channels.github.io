@@ -10,16 +10,16 @@
             "version": "1.8",
             "versionDate": "2020-03-24T00:00:00-00:00",
             "versionDescription": "• UI enhancements\n• Updated Events tab\n• 'Open in VLC' support (if VLC app is installed)\n• Browser streams will open in default player if possible\n• Smoother loading experience\n• Bugfixes",
-            "downloadURL": "https://FurkanSimsir.github.io/channels.ipa",
+            "downloadURL": "https://firebasestorage.googleapis.com/v0/b/channels-3c68e.appspot.com/o/channels.ipa?alt=media&token=4dce963c-f35c-4790-a678-fcb8e1a7c9dc",
             "localizedDescription": "Channels allow to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
-            "iconURL": "https://FurkanSimsir.github.io/appicon.png",
+            "iconURL": "https://https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
             "tintColor": "0093E9",
             "size": 168262228,
             "screenshotURLs": [
-                "https://FurkanSimsir.github.io/screen1.png",
-                "https://FurkanSimsir.github.io/screen2.png",
-                "https://FurkanSimsir.github.io/screen3.png",
-                "https://FurkanSimsir.github.io/screen4.png"
+                "https://https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
+                "https://https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
+                "https://https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
+                "https://https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
             ]
         }
     ],
@@ -29,7 +29,7 @@
             "identifier": "channels-x-altstore",
             "caption": "Live TV you're used to, better.",
             "tintColor": "0093E9",
-            "imageURL": "https://FurkanSimsir.github.io/banner.png",
+            "imageURL": "https://https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
             "appID": "com.channelsapp.channels",
             "date": "2020-03-25",
             "notify": true
