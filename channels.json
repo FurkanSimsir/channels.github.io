@@ -32,7 +32,7 @@
             "imageURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
             "appID": "com.channelsapp.channels",
             "date": "2020-03-25",
-            "notify": true
+            "notify": false
         }
     ],
     "userInfo": {}
